@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Ali (Qamer Ali)
 
-#### I (basically) code and I love it :)
+#### I (basically) code and I love it :relaxed:
 
 I am Senior Software Engineer based in Sydney, Australia and I have been building applications website for over a decade. I help convert a vision and an idea into meaningful and useful software products. I help transforming requirements into useful software which not only help business to grow but also has impact on society.
 
