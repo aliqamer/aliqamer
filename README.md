@@ -1,4 +1,4 @@
-![Design and Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fcoding-banner.html&psig=AOvVaw1f_gdBKry74udxkwq5Bwyi&ust=1606725696516000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjxmOytp-0CFQAAAAAdAAAAABAp)
+![Design and Development]https://github.com/aliqamer/aliqamer/blob/main/How-to-Start-Learning-Web-Design-and-Web-Development.jpg)
 
 ### Hi there 👋, my name is Ali (Qamer Ali)
 
