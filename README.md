@@ -1,4 +1,3 @@
-![Design and Development]https://github.com/aliqamer/aliqamer/blob/main/How-to-Start-Learning-Web-Design-and-Web-Development.jpg)
 
 ### Hi there 👋, my name is Ali (Qamer Ali)
 
