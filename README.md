@@ -1,10 +1,14 @@
+![Design and Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fcoding-banner.html&psig=AOvVaw1f_gdBKry74udxkwq5Bwyi&ust=1606725696516000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjxmOytp-0CFQAAAAAdAAAAABAp)
+
 ### Hi there 👋, my name is Ali (Qamer Ali)
+
 #### I (basically) code and I love it :)
+
 I am Senior Software Engineer based in Sydney, Australia and I have been building applications website for over a decade. I help convert a vision and an idea into meaningful and useful software products. I help transforming requirements into useful software which not only help business to grow but also has impact on society.
 
 Skills: AWS / Java8 / Springboot / Docker / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working React, Microservices, AWS, jMeter. 
+- 🔭 I’m currently working on React, Microservices, AWS, jMeter.
 
 ### Connect with me:
 
@@ -30,10 +34,7 @@ Skills: AWS / Java8 / Springboot / Docker / REACT / JS / HTML / CSS
 <br />
 <br />
 
-
 ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=aliqamer&show_icons=true&theme=radical)
-
-
 
 [twitter]: https://twitter.com/qamer4ever
 [linkedin]: https://www.linkedin.com/in/qamer-ali-shaikh-853b1316/
