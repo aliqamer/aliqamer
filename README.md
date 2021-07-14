@@ -3,11 +3,11 @@
 
 #### I (basically) code and I love it :relaxed:
 
-I am Senior Software Engineer based in Sydney, Australia and I have been building applications website for over a decade. I help convert a vision and an idea into meaningful and useful software products. I help transforming requirements into useful software which not only help business to grow but also has impact on society.
+I am Senior Software Engineer based in Pune, India and I am backend developer, building applications website for over a decade. I help convert a vision and an idea into meaningful and useful software products. I help transforming requirements into useful software which not only help business to grow but also has impact on society.
 
-Skills: AWS / Java8 / Springboot / Docker / REACT / JS / HTML / CSS
+Skills: AWS / Java8 / Playframework / Apache Camel / Springboot / Docker / JUnit / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on React, Microservices, AWS, jMeter.
+- 🔭 I’m currently working on AWS, Microservices, React, jMeter.
 
 ### Connect with me:
 
